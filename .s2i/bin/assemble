@@ -63,3 +63,4 @@ set +e
 set -e
 
 echo "---> CUSTOM S2I ASSEMBLE COMPLETE"
+echo "---> Message CUSTOM s2I " >&2
