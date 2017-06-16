@@ -1,4 +1,4 @@
-FROM rhscl/ruby-22-rhel7
+FROM openshift/ruby-22-rhel7
 USER default
 EXPOSE 8080
 ENV RACK_ENV production
