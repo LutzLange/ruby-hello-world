@@ -1,4 +1,4 @@
-FROM rhscl/ruby-23-rhel7
+FROM ruby
 USER default
 EXPOSE 8080
 ENV RACK_ENV production
